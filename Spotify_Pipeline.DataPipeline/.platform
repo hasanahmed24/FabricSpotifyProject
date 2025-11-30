@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "Spotify_Pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5207e63b-f82a-af4d-4b5e-f127531035fb"
+  }
+}
